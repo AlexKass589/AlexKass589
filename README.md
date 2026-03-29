@@ -18,4 +18,7 @@
 ![Jira](https://img.shields.io/badge/Jira-2F4F4F?style=for-the-badge&logo=Jira
 )
 
-Follow Me
+### Follow Me
+![Telegram](https://img.shields.io/badge/telegram-2F4F4F?style=for-the-badge&logo=telegram)
+![vk](https://img.shields.io/badge/vk-2F4F4F?style=for-the-badge&logo=vk)
+![linkedin](https://img.shields.io/badge/linkedin-2F4F4F?style=for-the-badge&logo=:linkedin)
